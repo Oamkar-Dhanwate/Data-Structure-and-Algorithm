@@ -87,8 +87,8 @@ python stock_predictor.py
 
 ## Screenshots
 
-![AVL Tree Visuali![Screenshot 2025-04-21 154845](https://github.com/user-attachments/assets/68fd4036-58ca-4648-a62a-1b493a9572d5)
-zation]()
+![AVL Tree Visuali!]([Screenshot 2025-04-21 154845](https://github.com/user-attachments/assets/68fd4036-58ca-4648-a62a-1b493a9572d5)
+zation])
 *AVL Tree and Price Trend Visualization*
 
 ![Prediction Visualization](scr![Screenshot 2025-04-21 155212](https://github.com/user-attachments/assets/98bb1cd8-21c1-4323-a926-bc87f92fec7e)
